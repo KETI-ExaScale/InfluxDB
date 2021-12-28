@@ -2,7 +2,7 @@
 ## Introduction of KETI-ExaScale GPU-Device-Plugin
 InfluxDB Yaml for KETI-ExaScale Platform
 
-## 목차
+## Contents
 [1. Requirment](#requirement)
 
 [2. How to Install](#how-to-install)
