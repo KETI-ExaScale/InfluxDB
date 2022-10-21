@@ -1,5 +1,5 @@
-# KETI-ExaScale GPU-Device-Plugin
-## Introduction of KETI-ExaScale GPU-Device-Plugin
+# KETI-ExaScale InfluxDB
+## Introduction of KETI-ExaScale InfluxDB
 InfluxDB Yaml for KETI-ExaScale Platform
 
 ## Contents
@@ -39,6 +39,3 @@ Non NFS
     $ kubectl get pv -A
     NAME       CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS   CLAIM                     STORAGECLASS   REASON   AGE
     influxdb   2Gi        RWX            Retain           Bound    gpu/influxdb-influxdb-0                           21s
-
-## Governance
-> This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.2021-0-00862, Development of DBMS storage engine technology to minimize massive data movement)
