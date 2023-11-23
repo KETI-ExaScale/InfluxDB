@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#khg
 dest_path="/root/workspace/deployments/influxdb"
 password="ketilinux"
 ip="10.0.5.62"
